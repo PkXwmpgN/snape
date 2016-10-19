@@ -94,7 +94,6 @@ Iterate of three million items
 | Acyclic visitor(RTTI) | 220.4 |
 | Snape's acyclic visitor | 23.2 |
 
------------------
-###Author
-Alexey Yegorov.
-If you have an idea, feel free to get in touch with me yegorov.alex@gmail.com
+##Acknowledgments
+Thanks a lot to Manu Sánchez, for the CTTI
+
