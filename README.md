@@ -1,13 +1,13 @@
-#Snape
+# Snape
 
-###Contents
+### Contents
 * [Acyclic visitor](#acyclic-visitor)
 
 
-##Acyclic visitor
+## Acyclic visitor
 An implementation of the acyclic visitor pattern without RTTI
 
-###Usage
+### Usage
 
 ```
 // class hierarchy
@@ -84,7 +84,7 @@ for(const auto & obj : entities)
 
 ```
 
-###Performance
+### Performance
 
 Iterate of three million items
 
@@ -94,6 +94,6 @@ Iterate of three million items
 | Acyclic visitor(RTTI) | 220.4 |
 | Snape's acyclic visitor | 23.2 |
 
-##Acknowledgments
+## Acknowledgments
 Thanks a lot to Manu Sánchez, for the CTTI
 
